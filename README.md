@@ -1,4 +1,5 @@
 # HR Automation System
+**Repository:** [https://github.com/gokulakannan501/hrsystem](https://github.com/gokulakannan501/hrsystem)
 
 A robust HR Attendance & Leave Automation System built with Node.js, Express, SQLite, and React + Tailwind.
 
